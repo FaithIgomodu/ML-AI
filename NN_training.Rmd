@@ -1,0 +1,12 @@
+---
+title: "NN_training"
+author: "Faith Igomodu"
+date: "July 8, 2024"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Generating a Neural Network 
